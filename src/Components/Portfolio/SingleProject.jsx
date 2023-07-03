@@ -14,7 +14,9 @@ const SingleProject = ({ card }) => {
     };
 
     return (
-        <div className="card w-96 bg-base-100 shadow-xl">
+        <div className="card w-96 bg-base-100 shadow-xl" data-aos="fade-right"
+        data-aos-offset="300"
+        data-aos-easing="ease-in-sine" >
             <figure>
                 <img src={projectImage} className="h-56 w-full" />
             </figure>

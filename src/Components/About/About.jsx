@@ -10,7 +10,8 @@ const About = () => {
                 <p className="text-fuchsia-800">My Introduction</p>
             </div>
             <div className="flex flex-col-reverse lg:flex-row items-center justify-center lg:justify-between">
-                <div className="lg:mr-10">
+                <div className="lg:mr-10" data-aos="fade-up"
+                    data-aos-duration="2000">
                     <img
                         src="https://i.ibb.co/hg8gw2b/profile-3.jpg"
                         alt="Banner Picture"
@@ -19,7 +20,8 @@ const About = () => {
                 </div>
 
 
-                <div className="lg:w-2/3">
+                <div className="lg:w-2/3" data-aos="fade-up"
+                    data-aos-duration="2000">
                     <div className="flex justify-center mt-5 lg:mt-0">
                         <div className="flex justify-center space-x-8">
                             {/* card-1 */}
