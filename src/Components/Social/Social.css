@@ -1,0 +1,12 @@
+.social-icon {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 2rem;
+    color: #000; /* Replace with your desired color */
+    transition: color 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    color: #2980b9; /* Replace with your desired hover color */
+  }
+  

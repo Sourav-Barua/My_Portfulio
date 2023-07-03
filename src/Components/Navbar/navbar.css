@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=Fasthand&family=Inter&family=Poppins:wght@400;500;600&display=swap');
+
+.menu li {
+    position: relative;
+    display: inline-block;
+}
+
+.menu li::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px;
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+}
+
+.menu li:hover::after {
+    background-color: #000;
+    /* Replace with your desired color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    /* Replace with your desired shadow */
+}
+
+.name_style {
+    font-style: italic;
+    font-family: 'Dancing Script';
+    font-size: 2rem;
+    /* Replace with your desired color */
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "projectName":"Geometry Calculation" ,
+        "projectImage":"https://i.ibb.co/5XDCXGy/1.jpg" ,
+        "projectDetails": "The Geometry Calculation website is a platform designed to assist users in performing various calculations related to geometry. Whether you are a student, teacher, or professional in the field, this website provides a convenient and efficient way to solve geometric problems.",
+        "codeLink": "https://github.com/programming-hero-web-course2/b7a5-geometry-genius-assignment-Sourav-Barua",
+        "liveSite" :"https://steady-lamington-b96d71.netlify.app/"
+    },
+    {
+        "id": 2,
+        "projectName": "Ai Universe Hub",
+        "projectImage":"https://i.ibb.co/85h66RH/2.jpg" ,
+        "projectDetails": "The AI Website Details website is a comprehensive platform that provides users with information and details about various AI (Artificial Intelligence) websites. It serves as a centralized hub where users can explore and discover different AI websites, their functionalities, features, and applications." ,
+        "codeLink":"https://github.com/programming-hero-web-course2/b7a6-ai-universe-assignment-Sourav-Barua",
+        "liveSite":"https://monumental-pudding-708690.netlify.app/"
+    },
+    {
+        "id": 3,
+        "projectName": "Knowledge Cafe",
+        "projectImage":"https://i.ibb.co/NppwfHQ/3.jpg" ,
+        "projectDetails": "The Job Details website is a comprehensive platform that provides users with access to a wide range of job-related information. Whether you are a job seeker, recruiter, or simply interested in exploring various career opportunities, this website serves as a valuable resource to gather detailed information about different jobs.The website aggregates job listings from various sources, including job boards, company websites, and recruitment agencies, to present a comprehensive collection of available job opportunities. Users can search for jobs by title, location, industry, or specific keywords, making it easier to find relevant positions that match their interests and qualifications." ,
+        "codeLink":"https://github.com/Porgramming-Hero-web-course/b7a8-knowledge-cafe-Sourav-Barua",
+        "liveSite":"https://wondrous-muffin-12142f.netlify.app/"
+    },
+    {
+        "id": 4,
+        "projectName": "Hire Me Now",
+        "projectImage":"https://i.ibb.co/P454xZt/4.jpg" ,
+        "projectDetails": "The (Hire Me Now) website is a platform designed to connect job seekers with potential employers or clients. It serves as a centralized hub where individuals can showcase their skills, qualifications, and experience, and employers can search for suitable candidates to hire for various roles or projects.The website offers a user-friendly interface that allows job seekers to create detailed profiles, including their professional background, education, work samples, and any other relevant information. They can also highlight their skills, expertise, and areas of specialization to attract potential employers.",
+        "codeLink":"https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-Sourav-Barua/tree/main",
+        "liveSite": "https://playful-eclair-cfddf2.netlify.app/"
+    },
+    {
+        "id": 5,
+        "projectName":"Toy-Market Place" ,
+        "projectImage": "https://i.ibb.co/89dGYJ0/5.jpg",
+        "projectDetails": "The Toy Store website is an online platform dedicated to providing a wide range of toys for children of all ages. With a diverse selection of high-quality toys, the website aims to bring joy and excitement to children's playtime.At the Toy Store, customers can explore a vast collection of toys, including educational toys, action figures, board games, dolls, puzzles, outdoor toys, and much more. The website offers a convenient and secure shopping experience, allowing users to browse through various categories and easily find the perfect toys for their children or as gifts for others.",
+        "codeLink":"https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-Sourav-Barua/tree/main",
+        "liveSite":"https://toy-joy-assignment11.web.app/"
+    },
+    {
+        "id": 6,
+        "projectName": "Pachforon" ,
+        "projectImage": "https://i.ibb.co/4RYWNg9/6.jpg",
+        "projectDetails": "The Bangladeshi Chefs Details website is a dedicated platform that showcases information and profiles of renowned chefs from Bangladesh. It serves as a comprehensive resource for individuals interested in exploring the culinary talents and achievements of Bangladeshi chefs.The website features a curated collection of profiles, each highlighting the background, expertise, and culinary journey of the showcased chefs. Visitors can learn about their culinary training, professional experiences, signature dishes, awards, and notable contributions to the culinary industry.",
+        "codeLink":"https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-Sourav-Barua/tree/main",
+        "liveSite":"https://ubiquitous-tanuki-867dfa.netlify.app/"
+    }
+]
